@@ -1,3 +1,1 @@
-# README
-
-## Hello
+Check spelling of the headers.
