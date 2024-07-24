@@ -25,3 +25,11 @@ How to Commit
 - How to list Branches
 
 > git branch
+
+- How to list all branches
+
+> git branch -a
+
+- How to take pull from remote
+
+> git pull origin main
