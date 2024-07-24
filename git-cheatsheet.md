@@ -14,6 +14,14 @@ How to Commit
 
 > git commit -m "comment"
 
-How to push
+- How to push
 
 > git push origin to <branchname>
+
+- How to create new branch
+
+> git switch -c <branchname>
+
+- How to list Branches
+
+> git branch
