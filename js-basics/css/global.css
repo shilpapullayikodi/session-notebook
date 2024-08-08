@@ -52,3 +52,6 @@ button {
   border: 2px solid var(--bark-turquoise);
   border-radius: 12px;
 }
+img {
+  width: 200px;
+}
