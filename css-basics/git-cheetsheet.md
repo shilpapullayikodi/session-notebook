@@ -1,0 +1,1 @@
+-<span>- to highlight particular text in bold , color, etc
